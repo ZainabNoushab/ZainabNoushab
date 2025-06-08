@@ -43,7 +43,7 @@
 
 ## 🔗 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/zainab-noushab-454208365)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-noushab-454208365/)  
 <!-- Add your LinkedIn link above -->
 
 ---
